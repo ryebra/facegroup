@@ -1,2 +1,3 @@
 config/
-spec/fixtures/
+Gemfile.lock
+spec/fixtures/fb_api_manual
